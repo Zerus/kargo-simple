@@ -4,6 +4,10 @@ This is a GitOps repository of a simple Kargo example for getting started.
 
 ### Features:
 
+
+
+
+
 * A Warehouse which monitors a container repository for new images
 * Three Stage (dev, staging, prod) deploy pipeline
 * Image tag promotion
