@@ -8,3 +8,5 @@ images:
   newTag: v0.0.1
 - name: ghcr.io/akuity/guestbook
   newTag: v0.0.2
+- name: ghcr.io/akuity/guestbook
+  newTag: v0.0.3
